@@ -1,0 +1,4 @@
+module CNGHTTP2 [system] {
+    header "CNGHTTP2.h"
+    link "nghttp2"
+}
